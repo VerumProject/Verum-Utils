@@ -42,7 +42,7 @@
     "get-random-values": "^1.2.0",
     "numeral": "^2.0.6",
     "secure-random-string": "^1.1.0",
-    "turtlecoin-crypto": "^3.1.3",
+    "turtlecoin-crypto": "git+https://github.com/VerumProject/Verum-Crypto.git",
     "varint": "^5.0.0"
   },
   "deprecated": false,
@@ -71,7 +71,7 @@
   "main": "index.js",
   "name": "turtlecoin-utils",
   "optionalDependencies": {
-    "turtlecoin-crypto": "^3.1.3"
+    "turtlecoin-crypto": "git+https://github.com/VerumProject/Verum-Crypto.git"
   },
   "repository": {
     "type": "git",
